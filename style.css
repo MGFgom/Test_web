@@ -1,0 +1,54 @@
+#Titulo-pag{text-align: center;
+            font-size: 90px;
+            
+
+
+}
+.foto-portada{margin-left: 17%;
+padding: auto;
+padding: 10px 10px 20px 10px;
+padding: red;}
+
+
+*{background-image: url("https://www.chemica-us.com/1014-thickbox_default/108-azul-claro.jpg");}
+
+
+h1{text-align: center;
+text-decoration-line: underline;}
+
+
+.lolita{height: 15%;
+width: 15%;
+border-radius: 50%;
+border-image: fill;
+border-color: red;}
+
+
+h2{font-size: 35px;
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';}
+#lista{font-size: 35px;}
+
+#lista_de_flores{font-size: 50px;
+text-decoration: underline;}
+
+.grupo_lista{font-size: 35px;}
+
+.imagen_1{ width: 50%;}
+
+.Barra_naranja{max-height: 100px;
+min-width: 2470px;}
+
+button[type]{font-size: 25px;}
+
+.otras{font-size: 45px;}
+
+.imagen_4{width: 600px;}
+
+#copi{text-align: center;
+font-size: 35px;}
+
+.grupo_enviar{font-size: 35px;}
+input[type]{font-size: 35px;}
+
+.terminos{text-align: center;}
